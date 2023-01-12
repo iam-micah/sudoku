@@ -1,7 +1,4 @@
 # ===========================================================================
-#  Micah Akai-Nettey (sakain01)
-#  CS 131 Spring 2022
-#  Assignment 4, CSP 
 #
 #  Purpose:
 #      Solve a sudoku puzzle
@@ -11,10 +8,6 @@
 #      2. This program uses backtracking to solve the puzzle
 #      3. The constraints we're using in this solution are: 
 #         non duplication across rows, columns, and 3x3 grid boxes
-#
-#  ChangeLog:
-#      04/20/2022: sakain01
-#           newsudoku.py file created
 # ===========================================================================
 
 # ===========================================================================
